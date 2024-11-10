@@ -1,0 +1,15 @@
+{
+    "name": "gunaones/hello-world-package",
+    "autoload": {
+        "psr-4": {
+            "Gunaones\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gunaones",
+            "email": "gunawansetiawan58@gmail.com"
+        }
+    ],
+    "require": {}
+}
