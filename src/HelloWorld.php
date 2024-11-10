@@ -1,10 +1,11 @@
 <?php
-namespace HelloWorldPackage;
+
+namespace Gunaones\HelloWorldPackage;
 
 class HelloWorld
 {
-    public static function sayHello()
-    {
-        echo "Hello World";
-    }
+	public static function sayHello()
+	{
+		echo "Hello World";
+	}
 }
